@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoutwestWater", "SoutwestWater\SoutwestWater.csproj", "{35315C72-7B6F-4397-9F91-ADB3B3BF20EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestRail", "TestRail\TestRail.csproj", "{2162E7EE-ED4C-4C41-8E21-66976AB11D1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuildPageObjects", "BuildPageObjects\BuildPageObjects.csproj", "{F4894E5A-ADE5-40A9-999C-E3CE3E859038}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{0C6CEC4C-B3F1-4162-B414-2C03D94D735B}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\packages.config = .nuget\packages.config
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://pourquoiqa.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = SoutwestWater\\SoutwestWater.csproj
+		SccProjectName1 = SoutwestWater
+		SccLocalPath1 = SoutwestWater
+		SccProjectUniqueName2 = TestRail\\TestRail.csproj
+		SccProjectName2 = TestRail
+		SccLocalPath2 = TestRail
+		SccProjectUniqueName3 = BuildPageObjects\\BuildPageObjects.csproj
+		SccProjectName3 = BuildPageObjects
+		SccLocalPath3 = BuildPageObjects
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35315C72-7B6F-4397-9F91-ADB3B3BF20EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35315C72-7B6F-4397-9F91-ADB3B3BF20EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35315C72-7B6F-4397-9F91-ADB3B3BF20EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35315C72-7B6F-4397-9F91-ADB3B3BF20EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2162E7EE-ED4C-4C41-8E21-66976AB11D1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2162E7EE-ED4C-4C41-8E21-66976AB11D1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2162E7EE-ED4C-4C41-8E21-66976AB11D1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2162E7EE-ED4C-4C41-8E21-66976AB11D1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4894E5A-ADE5-40A9-999C-E3CE3E859038}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4894E5A-ADE5-40A9-999C-E3CE3E859038}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4894E5A-ADE5-40A9-999C-E3CE3E859038}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4894E5A-ADE5-40A9-999C-E3CE3E859038}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
